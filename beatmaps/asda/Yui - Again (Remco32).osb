@@ -1,0 +1,9 @@
+[Events]
+//Background and Video events
+1,0,"Intro.avi"
+0,0,"Background.jpg"
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Failing)
+//Storyboard Layer 2 (Passing)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
